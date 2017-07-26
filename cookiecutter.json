@@ -1,0 +1,10 @@
+{
+  "full_name": "Chuck Woodraska",
+  "email": "chuck.woodraska@gmail.com",
+  "repo_name": "PyTemplate",
+  "project_name": "pytemplate",
+  "app_class_name": "PyTemplateApp",
+  "app_title": "PyTemplate",
+  "short_description": "PyTemplate is a cookiecutter template for basic Python projects.",
+  "year": 2017
+}
