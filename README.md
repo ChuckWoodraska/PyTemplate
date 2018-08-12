@@ -1,3 +1,3 @@
-# PyTemplate
+# Flask Scaffold
 
-PyTemplate is a cookiecutter template for basic Python projects.
+Flask Scaffold is a cookiecutter template for new Flask projects.
