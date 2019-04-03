@@ -1,0 +1,6 @@
+[DATABASE]
+CONNECTION_STRING=mysql+mysqldb://user:password@host/db_name?ssl_ca=ca_filename
+
+[ENV]
+STAGE=[dev, test, prod]
+SECRET_KEY=str
