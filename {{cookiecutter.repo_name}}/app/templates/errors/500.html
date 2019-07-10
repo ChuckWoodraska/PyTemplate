@@ -6,6 +6,6 @@
 <body>
   <h1>500 - Internal Server Error</h1>
   <p>Error has been logged and an admin has been notified. Please return to the main page.
-  <p><a href="{{ url_for('core.index') }}">Go to Frontpage</a>
+  <p><a href="{% raw %}{{ url_for('core.index') }}{% endraw %}">Go to Frontpage</a>
 </body>
 </html>
